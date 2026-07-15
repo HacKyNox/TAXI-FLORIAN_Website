@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin/
 Disallow: /test/
 
-Sitemap: https://www.taxiflorian.fr/sitemap.xml
+Sitemap: https://taxiflorian.fr/sitemap.xml
