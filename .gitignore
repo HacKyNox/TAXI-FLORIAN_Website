@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Sensitive data
+Dossier securisé/
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# Tailwind css 
+tailwindcss/
+tailwindcss
+
+# Vite (si le dossier est temporaire)
+vite-project/
